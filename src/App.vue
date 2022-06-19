@@ -10,7 +10,7 @@
 <template>
   <div class="container">
     <div class="row">
-      <h1>CoinMarket</h1>
+      <h1>VUE CoinMarket</h1>
 
       <input
         type="text"
